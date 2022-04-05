@@ -1,2 +1,2 @@
-# IITMadrasGradeCalculator
-IITMadrasGradeCalculator
+# IITMadrasBSc Booster
+First feature: IITMadrasGradeCalculator
